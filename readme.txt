@@ -8,6 +8,5 @@ Creating new branch is quick and simple.
 use the merge of fast forward will not leave the record of log.
 use no-ff (as 'recursive strategy') will leave the record of log.
 use stash to save local files in working directory.
-push files to origin from partner.
 update the origin branch dev by local branch dev.
-
+push files to origin from partner.
